@@ -1,4 +1,3 @@
-Introduction: 
 The climate change issues have been vocal over the last two decades yielding transformation through science and with the integration of machine learning (ML).  The success of this transformation has been made possible through data-driven approaches and methodologies which tackle the complexity and level at which global climate systems able to adapt and provide critical actionable insights for risks and mitigation. 
 
 Unpredictability in weather patterns has increased globally as climate change intensifies. A rise in severe weather events has put many communities' safety in jeopardy.
